@@ -1,2 +1,0 @@
-# Recuperator
-Recuperator Arduino Project
